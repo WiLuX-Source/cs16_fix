@@ -1,0 +1,83 @@
+Counter-Strike 1.6 ZBots - Credits
+==================================
+
+This installer only gathers and installs other people's work. All credit
+goes to the authors below.
+
+
+ReGameDLL_CS 5.30.0.814
+-----------------------
+Reverse-engineered and improved Counter-Strike game library (mp.dll) that
+brings back ZBots and the CZ hostage AI. Includes delta.lst, game.cfg and
+game_init.cfg.
+By the ReHLDS team (s1lentq and contributors).
+  https://github.com/rehlds/ReGameDLL_CS
+  https://github.com/rehlds/ReGameDLL_CS/releases/tag/5.30.0.814
+
+ZBots profiles, chatter and radio voices
+----------------------------------------
+BotProfile.db, BotChatter.db and sound\radio\bot\ from ReGameDLL_CS
+extra/zBot/bot_profiles.zip. Originally made for Counter-Strike: Condition
+Zero by Turtle Rock Studios and Valve.
+  https://github.com/rehlds/ReGameDLL_CS/tree/master/regamedll/extra/zBot
+
+HostageImprov
+-------------
+CZ hostage models and voices from ReGameDLL_CS
+extra/HostageImprov/host_improv.zip. Originally from Counter-Strike:
+Condition Zero by Turtle Rock Studios and Valve.
+  https://github.com/rehlds/ReGameDLL_CS/tree/master/regamedll/extra/HostageImprov
+
+Counter-Strike: Condition Zero
+------------------------------
+CreateMultiplayerGameServerPage.res layout, CreateMultiplayerGameBotPage.res,
+UI\CSProgressBar.res and the official .nav files come from CS: Condition
+Zero. By Valve and Turtle Rock Studios.
+  https://store.steampowered.com/app/80/
+
+Original nav file fix packs v1.0
+--------------------------------
+Fixed .nav files for cs_747, cs_assault, cs_backalley, cs_havana, cs_italy,
+cs_mansion, cs_militia, cs_office, cs_office_cz, de_dust, de_dust2,
+de_inferno, de_nuke, de_piranesi and de_tuscan.
+By Ghost1744683.
+  https://gamebanana.com/mods/328479
+
+200+ fixed .nav files (zBot 1.5 navs)
+-------------------------------------
+de_cbble.nav, made for the current version of the map.
+Uploaded by papaschlange. Made by Mr.Jeff, renf1ld, npocTo_LaM, Thinker and
+Karas'.
+  https://gamebanana.com/mods/40203
+
+Bot command menu
+----------------
+commandmenu.txt with the ADD/REMOVE BOTS, BOT CONTROL and BOT BEHAVIOUR
+menus, from "Counter-Strike 1.6 Steam Bots & Bot Menu" (v2021.0).
+By shanie (sjain). The Rogues Allow/Disallow values are fixed in this
+installer.
+  https://steamcommunity.com/id/shanieboop/
+  http://steamcommunity.com/profiles/76561198143022446
+  https://web.archive.org/web/https://steamcommunity.com/sharedfiles/filedetails/?id=1725204346
+
+Counter-Strike 1.6 bots for the 25th Anniversary update
+-------------------------------------------------------
+Hasan Merkit's pack and guide showed which CZ files are needed and how to
+show the bot options on the Create Server page.
+By Hasan Merkit.
+  https://steamcommunity.com/sharedfiles/filedetails/?id=3378754164
+  https://www.steamcommunity.com/id/hasanmerkit
+
+Blue-grey menu colors
+---------------------
+resource\TrackerScheme.res, based on Valve's valve\resource\TrackerScheme.res
+with recolored menus.
+
+Inno Setup
+----------
+The installer itself. By Jordan Russell and Martijn Laan.
+  https://jrsoftware.org/isinfo.php
+
+
+Counter-Strike, Counter-Strike: Condition Zero and Half-Life are trademarks
+of Valve Corporation. This installer is not made or endorsed by Valve.
